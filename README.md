@@ -16,3 +16,9 @@ This project is a simple Todo List application built by ayush aryan using HTML, 
 
 !![image](https://github.com/user-attachments/assets/8fe9f003-7519-49fc-8fbc-dc477646bd81)
 
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ayusharyan143/Todo-application-.git
